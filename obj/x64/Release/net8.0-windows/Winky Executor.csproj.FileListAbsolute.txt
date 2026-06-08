@@ -1,0 +1,35 @@
+C:\Users\del\source\repos\123\123\bin\x64\Release\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\del\source\repos\123\123\bin\x64\Release\net8.0-windows\Winky Executor.exe
+C:\Users\del\source\repos\123\123\bin\x64\Release\net8.0-windows\Winky Executor.deps.json
+C:\Users\del\source\repos\123\123\bin\x64\Release\net8.0-windows\Winky Executor.runtimeconfig.json
+C:\Users\del\source\repos\123\123\bin\x64\Release\net8.0-windows\Winky Executor.dll
+C:\Users\del\source\repos\123\123\bin\x64\Release\net8.0-windows\Winky Executor.pdb
+C:\Users\del\source\repos\123\123\bin\x64\Release\net8.0-windows\CuoreUI.dll
+C:\Users\del\source\repos\123\123\bin\x64\Release\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\del\source\repos\123\123\bin\x64\Release\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\del\source\repos\123\123\bin\x64\Release\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\del\source\repos\123\123\bin\x64\Release\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\del\source\repos\123\123\bin\x64\Release\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\del\source\repos\123\123\bin\x64\Release\net8.0-windows\VelocityAPI.dll
+C:\Users\del\source\repos\123\123\bin\x64\Release\net8.0-windows\Microsoft.Web.WebView2.Core.xml
+C:\Users\del\source\repos\123\123\bin\x64\Release\net8.0-windows\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\del\source\repos\123\123\bin\x64\Release\net8.0-windows\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\del\source\repos\123\123\obj\x64\Release\net8.0-windows\Winky Executor.csproj.AssemblyReference.cache
+C:\Users\del\source\repos\123\123\obj\x64\Release\net8.0-windows\_123.Properties.Resources.resources
+C:\Users\del\source\repos\123\123\obj\x64\Release\net8.0-windows\RobloxProcesses.resources
+C:\Users\del\source\repos\123\123\obj\x64\Release\net8.0-windows\Synapse_X_Remake.Scripthub.resources
+C:\Users\del\source\repos\123\123\obj\x64\Release\net8.0-windows\_123.WINKY.resources
+C:\Users\del\source\repos\123\123\obj\x64\Release\net8.0-windows\Synapse_X_Remake.WinkyExecutor.resources
+C:\Users\del\source\repos\123\123\obj\x64\Release\net8.0-windows\Winky Executor.csproj.GenerateResource.cache
+C:\Users\del\source\repos\123\123\obj\x64\Release\net8.0-windows\Winky Executor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\del\source\repos\123\123\obj\x64\Release\net8.0-windows\Winky Executor.AssemblyInfoInputs.cache
+C:\Users\del\source\repos\123\123\obj\x64\Release\net8.0-windows\Winky Executor.AssemblyInfo.cs
+C:\Users\del\source\repos\123\123\obj\x64\Release\net8.0-windows\Winky Executor.csproj.CoreCompileInputs.cache
+C:\Users\del\source\repos\123\123\obj\x64\Release\net8.0-windows\Winky Ex.03ECA6C5.Up2Date
+C:\Users\del\source\repos\123\123\obj\x64\Release\net8.0-windows\Winky Executor.dll
+C:\Users\del\source\repos\123\123\obj\x64\Release\net8.0-windows\refint\Winky Executor.dll
+C:\Users\del\source\repos\123\123\obj\x64\Release\net8.0-windows\Winky Executor.pdb
+C:\Users\del\source\repos\123\123\obj\x64\Release\net8.0-windows\Winky Executor.genruntimeconfig.cache
+C:\Users\del\source\repos\123\123\obj\x64\Release\net8.0-windows\ref\Winky Executor.dll
+C:\Users\del\source\repos\123\123\bin\x64\Release\net8.0-windows\editor.html
+C:\Users\del\source\repos\123\123\bin\x64\Release\net8.0-windows\cda35960b514d793a29c376a219f2a42.ico
